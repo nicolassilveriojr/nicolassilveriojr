@@ -33,12 +33,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolassilveriojr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassilveriojr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nicolassilveriojr&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 </div>
 
----
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolassilveriojr&theme=tokyonight&hide_border=true" />
+
+![nicolassilveriojr's Stats](https://github-readme-stats.vercel.app/api?username=nicolassilveriojr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassilveriojr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 </div>
